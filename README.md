@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Un-Hunh
+- 👋 Hi, I’m @pringles4shingles
 - 👀 I’m interested in: python
 - 🌱 I’m currently learning: python
 - 💞️ I’m looking to collaborate on: maybe python
